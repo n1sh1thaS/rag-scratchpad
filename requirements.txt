@@ -3,5 +3,8 @@ langchain-core
 langchain-openai
 langchain-community
 langchain-anthropic
+langchain_chroma
 langgraph
 python-dotenv
+pypdf
+chromadb
