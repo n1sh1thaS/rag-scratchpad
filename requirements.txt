@@ -8,3 +8,4 @@ langgraph
 python-dotenv
 pypdf
 chromadb
+rank_bm25
